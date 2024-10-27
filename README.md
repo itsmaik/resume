@@ -21,12 +21,13 @@
 ## SKILLS
 
 ### Programming
-- JavaScript
+- JavaScript / TypeScript
+- React
 - Bootstrap / Tailwind
-- CSS / SASS / SCSS
-- Git / Github
+- HTML / CSS / SASS / SCSS
+- Git / Github /NPM / Vite
+- Figma
 - WordPress
-- HTML
 
 ### Languages
 - Portuguese (Native)
@@ -37,7 +38,7 @@
 - [itsmemaik-portfolio](https://itsmemaik-portfolio.netlify.app/)
 
 ## ABOUT ME
-I'm a Brazilian native who moved to Norway four years ago. With extensive experience in administrative work and people management, I decided to change my career path and discovered a passion for coding. Currently, I'm finishing a higher degree in Frontend Development and am in my first year of studying System Analysis and Development. I am now seeking an internship to take all I have learned in school and apply it to real-world experience.
+I'm a Brazilian native who moved to Norway four years ago. With extensive experience in administrative work and people management, I decided to change my career path and discovered a passion for coding. Currently, I'm finishing a higher degree in Frontend Development and walking in to my second year of studying System Analysis and Development. I am now seeking an opportunity to take all I have learned in school and apply it to real-world experience.
 
 ## WORK EXPERIENCE
 
