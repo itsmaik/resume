@@ -38,7 +38,7 @@
 - [itsmemaik-portfolio](https://itsmemaik-portfolio.netlify.app/)
 
 ## ABOUT ME
-I'm a Brazilian native who moved to Norway four years ago. With extensive experience in administrative work and people management, I decided to change my career path and discovered a passion for coding. Currently, I'm finishing a higher degree in Frontend Development and walking in to my second year of studying System Analysis and Development. I am now seeking an opportunity to take all I have learned in school and apply it to real-world experience.
+I'm a Brazilian native who moved to Norway five years ago. In Brazil I built an extensive experience in administrative work and people management. After moving to Norway, I got the opportunity to study something new, and without a doubt, I chose to pursue an education in the computer programming field, as it is something I was already very interested in. Currently, I'm finishing a higher degree in Frontend Development and walking in to my second year of studying System Analysis and Development. I am now seeking an opportunity to take all I have learned in school and apply it to real-world experience.
 
 ## WORK EXPERIENCE
 
